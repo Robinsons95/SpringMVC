@@ -10,7 +10,7 @@ Java class "Agent" is EntityClass created from DB
 
 Java class "AgentService" is the database manipulation stuff
 
-Java class "ExceptionClass" is exception stuff (Not sure if working properly)
+Java class "ExceptionClass" is exception stuff (Tested with postman think it's working)
 
 Supports english + spanish + french, bean validation
 

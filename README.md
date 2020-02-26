@@ -2,7 +2,7 @@
 
 Download ZIP, store locally and copy to netbeans
 
-Note: I made changes to litrealty DB so better off importing the sql file to get the exact databse im using
+Note: I made changes to litrealty DB so better off importing the sql file to get the exact databse or you'll run into problems
 
 Java class "main" is the main controller where all the routing happens
 

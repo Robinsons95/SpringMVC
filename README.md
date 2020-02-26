@@ -20,4 +20,4 @@ http://localhost:8080/mvcCRUD/home/displayAll/?language=es_ES
 
 Note: Edit functionality just adds a new user, doesn't actually edit because too lazy
 
-Note: Have to change things like DB to get it to work
+Note: I made changes to litrealty DB so better off importing the sql file to get the exact databse im using

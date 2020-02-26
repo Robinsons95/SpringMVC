@@ -1,14 +1,18 @@
 # SpringMVC
 
-Download ZIP and copy to netbeans
-
-
+Download ZIP, store locally and copy to netbeans
 
 Have to change things like DB to get it to work
 
-Main: http://localhost:8080/mvcCRUD/home/displayAll
+Java class "main" is the main controller where all the routing happens
 
-Supports english + spanish + french
+Java class "Agent" is EntityClass created from DB
+
+Java class "AgentService" is the database stuff
+
+Java class "ExceptionClass" is exception stuff (Not sure if working properly)
+
+Supports english + spanish + french, bean validation
 
 http://localhost:8080/mvcCRUD/home/displayAll/?language=en_IE
 

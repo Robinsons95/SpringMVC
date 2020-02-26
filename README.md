@@ -6,7 +6,7 @@ Java class "main" is the main controller where all the routing happens
 
 Java class "Agent" is EntityClass created from DB
 
-Java class "AgentService" is the database stuff
+Java class "AgentService" is the database manipulation stuff
 
 Java class "ExceptionClass" is exception stuff (Not sure if working properly)
 
